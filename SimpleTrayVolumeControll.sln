@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrayVolumeControll", "SimpleTrayVolumeControll\SimpleTrayVolumeControll.csproj", "{FF0E2B4A-6CE4-42A8-A1E2-0AF8F25C9DFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0E2B4A-6CE4-42A8-A1E2-0AF8F25C9DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0E2B4A-6CE4-42A8-A1E2-0AF8F25C9DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0E2B4A-6CE4-42A8-A1E2-0AF8F25C9DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0E2B4A-6CE4-42A8-A1E2-0AF8F25C9DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58EA2254-672F-4015-A3B3-1BBFB98584C9}
+	EndGlobalSection
+EndGlobal
